@@ -18,7 +18,7 @@ This document may be freely copied, provided it is not modified.
 
 This is the **YAML specification v1.2.2**.
 It defines the **YAML 1.2 data language**.
-There are no normative changes from the **YAML specification v1.2**.
+  There are no normative changes from the **YAML specification v1.2`  
 The primary objectives of this revision are to correct errors and add clarity.
 
 This revision also strives to make the YAML language development process more
